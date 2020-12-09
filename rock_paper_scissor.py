@@ -1,4 +1,6 @@
+#By Chirantan banerjee
 import random
+#Import the random module in python
 def game(computer,user) : 
     if computer == user :
         return None
